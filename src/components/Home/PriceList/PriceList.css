@@ -91,7 +91,7 @@
 }
 .floor_right_text {
     color: var(--color-newblue);
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 600;
     font-family: var(--font-semibold);
 }
@@ -121,8 +121,9 @@
     .floor_plans_right {
         gap: 1rem;
     }
-    .floor_right_text {
-        font-size: 18px;
+    .floor_right_text,
+    .floor_palns_flex .floor_text_content {
+        font-size: 16px;
     }
     .floor_right_blur_text {
         font-size: 20px;

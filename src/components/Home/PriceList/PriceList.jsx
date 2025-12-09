@@ -42,7 +42,7 @@ const PriceList = () => {
                                                 <p className="floor_text_content">No. of Parking-2</p>
                                             </div>
                                             <div className="floor_plans_right">
-                                                <p className="floor_right_text">Keep for the Latest Price List & Deals!</p>
+                                                <p className="floor_right_text">Stay Updated with the Latest Prices & Hot Deals</p>
                                                 <p className="floor_right_blur_text">₹ 1.5 Cr*</p>
                                                 <Button className="floor_plans_btn" onClick={() => openPriceForm("Enquire Now to Know More", "Connect with Our Team for Brochure, Prices & Site Visit Details", "Enquire Now", "explore")}>
                                                     Enquire Now
@@ -61,7 +61,7 @@ const PriceList = () => {
                                                 <p className="floor_text_content">No. of Parking-2</p>
                                             </div>
                                             <div className="floor_plans_right">
-                                                <p className="floor_right_text">Keep for the Latest Price List & Deals!</p>
+                                                <p className="floor_right_text">Stay Updated with the Latest Prices & Hot Deals</p>
                                                 <p className="floor_right_blur_text">₹ 1.5 Cr*</p>
                                                 <Button className="floor_plans_btn" onClick={() => openPriceForm("Enquire Now to Know More", "Connect with Our Team for Brochure, Prices & Site Visit Details", "Enquire Now", "explore")}>
                                                     Enquire Now
@@ -80,7 +80,7 @@ const PriceList = () => {
                                                 <p className="floor_text_content">No. of Parking-2</p>
                                             </div>
                                             <div className="floor_plans_right">
-                                                <p className="floor_right_text">Keep for the Latest Price List & Deals!</p>
+                                                <p className="floor_right_text">Stay Updated with the Latest Prices & Hot Deals</p>
                                                 <p className="floor_right_blur_text">₹ 1.5 Cr*</p>
                                                 <Button className="floor_plans_btn" onClick={() => openPriceForm("Enquire Now to Know More", "Connect with Our Team for Brochure, Prices & Site Visit Details", "Enquire Now", "explore")}>
                                                     Enquire Now
@@ -99,7 +99,7 @@ const PriceList = () => {
                                                 <p className="floor_text_content blur">No. of Parking-2</p>
                                             </div>
                                             <div className="floor_plans_right">
-                                                <p className="floor_right_text">Keep for the Latest Price List & Deals!</p>
+                                                <p className="floor_right_text">Stay Updated with the Latest Prices & Hot Deals</p>
                                                 <p className="floor_right_blur_text">₹ 1.5 Cr*</p>
                                                 <Button className="floor_plans_btn" onClick={() => openPriceForm("Request Exclusive Access to Project Details", "Our Team Will Share Accurate Details on Pricing, Plans & Possession", "Send Request", "request")}>
                                                     Send Request
