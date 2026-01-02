@@ -27,6 +27,12 @@ input.align-middle.size-4 {
     justify-content: center;
     display: flex;
 }
+.submit_btn.disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
 
 span.thanku-txt {
     font-size: 20px;
