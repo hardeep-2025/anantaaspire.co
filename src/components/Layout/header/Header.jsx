@@ -238,9 +238,9 @@ const Header = () => {
 
             <div className="header_right">
               <div className="header_right_top">
-                <Link to={"tel:+919609600074"} className="header_call blink">
+                <Link to={"tel:+91 9915841204"} className="header_call blink">
                   <img src={phoneIcon} alt="Phone" className="phone_icon" />
-                  +91 9609600074
+                  +91 9915841204
                 </Link>
                 <Button className="header_request_btn" onClick={() => openPriceForm("Request Exclusive Access to Project Details", "Our Team Will Share Accurate Details on Pricing, Plans & Possession", "Send Request", "request")}>Request Details</Button>
               </div>
