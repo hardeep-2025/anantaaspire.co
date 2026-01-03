@@ -3,8 +3,11 @@ import "./NewlyLaunched.css";
 import { Link } from "react-router-dom";
 import { useState } from "react";
 import axios from "axios";
+import launchedImg from './launched_group_blank.webp';
 
-const launchedImg = `${process.env.REACT_APP_API_URL}/assests/images/launched_group_blank.webp`;
+
+
+// const launchedImg = `${process.env.REACT_APP_API_URL}/assests/images/launched_group_blank.webp`;
 const phoneIcon = `${process.env.REACT_APP_API_URL}/assests/images/phone-call.webp`;
 const eyes = `${process.env.REACT_APP_API_URL}/assests/images/eyes.webp`;
 const sendIcon = `${process.env.REACT_APP_API_URL}/assests/images/send_icon.webp`;
@@ -119,8 +122,8 @@ const NewlyLaunched = () => {
 
                                 <div className="newly_launched_right_bottom">
                                     <div className="newly_launched_bottom_left">
-                                        <p className="bottom_right_launched_text bold">A Rare Investment Opportunity Awaits</p>
-                                        <p className="bottom_right_launched_text">Register now to stay informed and invest in elegance before it's unveiled.</p>
+                                        <p className="bottom_right_launched_text bold">Step into a home you’ve always dreamed of and start with instant savings from day one.</p>
+                                        <p className="bottom_right_launched_text">This exclusive privilege is reserved for only the first <span style={{ color: "#FF8C27"}}> 20 buyers</span>, so seize the moment before it’s gone..</p>
                                     </div>
                                     <div className="newly_launched_bottom_right">
                                         <div className="newly_launched_form">

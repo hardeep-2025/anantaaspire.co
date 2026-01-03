@@ -99,8 +99,8 @@
     font-family: var(--font-semibold);
 }
 .banner_slider_red_text {
-    font-size: 20px;
-    line-height: 25px;
+    font-size: 25px;
+    line-height: 29px;
     font-weight: 600;
     font-family: var(--font-semibold);
     background-color: var(--color-red);
@@ -139,8 +139,8 @@
         line-height: 30px;
     }
     .banner_slider_red_text {
-        font-size: 22px;
-        line-height: 25px;
+        font-size: 25px;
+        line-height: 29px;
     }
     .banner_slider_lists_item  {
         font-size: 18px;
@@ -175,8 +175,8 @@
         line-height: 25px;
     }
     .banner_slider_red_text {
-        font-size: 18px;
-        line-height: 22px;
+        font-size: 20px;
+        line-height: 24px;
     }
     .banner_slider_item .booking_text_banner {
         font-size: 16px;
@@ -252,8 +252,8 @@
         line-height: 22px;
     }
     .banner_slider_red_text {
-        font-size: 12px;
-        line-height: 16px;
+        font-size: 14px;
+        line-height: 8px;
         padding: 8px 10px;
     }
     .banner_slider_item .col {
