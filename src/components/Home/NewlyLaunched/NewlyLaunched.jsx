@@ -97,7 +97,7 @@ const NewlyLaunched = () => {
                     <div className="rera_phone_flex">
                         <p className="rera_content">PBRERA- Yet to be announced</p>
                         <p className="phone_content">
-                            <Link to="tel:+919609600074"><img src={phoneIcon} alt="Phone" /> +91 9609600074</Link>
+                            <Link to="tel:+919915841204"><img src={phoneIcon} alt="Phone" /> +91 9915841204</Link>
                         </p>
                     </div>
                     <div className="launched_image_content">

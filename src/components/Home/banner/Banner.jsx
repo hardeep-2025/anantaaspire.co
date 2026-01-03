@@ -48,7 +48,7 @@ const slides = [
     {
         title: "Discover Luxury Living on the Patiala–Chandigarh Highway at Ananta Aspire",
         text: "Redefining the Essence of Modern Luxury",
-        subtext: "Luxury Flats Starting at Just ₹1.7 Cr",
+        subtext: "Luxury Flats Starting at Just ₹ 1.7 Cr",
         image: banner1,
         imageAlt: "Relaxing near shed area in Ananta Aspire 3 BHK luxury flats in Zirakpur",
         smallAlt: "Families Have Mooved In",
@@ -56,7 +56,7 @@ const slides = [
     {
         title: "Redefining Modern Living at The Ananta Aspire",
         text: "Where Smart Design Meets Luxury Comfort",
-        subtext: "Luxury Flats Starting at Just ₹1.7 Cr",
+        subtext: "Luxury Flats Starting at Just ₹ 1.7 Cr",
         image: banner4,
         imageAlt: "Green garden around the Ananta Aspire building, one of the new residential projects in Zirakpur offering modern living amidst nature",
         smallAlt: "Ananta Aspire",
@@ -64,7 +64,7 @@ const slides = [
     {
         title: "The Future of Smart Living Starts Here",
         text: "Experience Intelligent Spaces Crafted for Modern Minds",
-        subtext: "Luxury Flats Starting at Just ₹1.7 Cr",
+        subtext: "Luxury Flats Starting at Just ₹ 1.7 Cr",
         image: banner2,
         imageAlt: "Girl standing near Ananta Aspire building night view showcasing luxury flats in Zirakpur",
         smallAlt: "Ananta Aspire",
@@ -72,7 +72,7 @@ const slides = [
     {
         title: "Introducing The Ananta Aspire – Smart Living Elevated",
         text: "Step Into the Future of Refined, Intelligent Living",
-        subtext: "Luxury Flats Starting at Just ₹1.7 Cr",
+        subtext: "Luxury Flats Starting at Just ₹ 1.7 Cr",
         image: banner5,
         imageAlt: "Beautiful illuminated night view of Ananta Aspire luxury flats for sale in Zirakpur",
         smallAlt: "Ananta Aspire",
@@ -80,7 +80,7 @@ const slides = [
     {
         title: "Luxury Reimagined for the Smart Generation",
         text: "Designed to Inspire Modern Minds & Sophisticated Living",
-        subtext: "Luxury Flats Starting at Just ₹1.7 Cr",
+        subtext: "Luxury Flats Starting at Just ₹ 1.7 Cr",
         image: banner3,
         imageAlt: "New residential project in Zirakpur – exterior view of Ananta Aspire showcasing modern architecture and premium living",
         smallAlt: "Ananta Aspire",
