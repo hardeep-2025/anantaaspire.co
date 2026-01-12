@@ -105,8 +105,8 @@ const NewlyLaunched = () => {
                     </div>
                     <div className="launched_image_content">
                         <img src={anataLogo} alt="Ananta" className="anata_logo_content" />
-                        <p className="lauching_soon_heading">Launching Soon</p>
-                        <p className="launching_soon_subheading">The Epitome of Luxury Is About to Rise</p>
+                        <p className="launching_soon_subheading">Crafted for those who expect more</p>
+                        <p className="lauching_soon_heading">where luxury living reaches its finest expression</p>
                     </div>
                 </div>
             </div>

@@ -195,7 +195,6 @@
     gap: 15px;
     align-items: center;
     flex-direction: column;
-    max-width: 327px;
     margin: 43px auto auto;
     padding-left: 42px;
 }
@@ -203,11 +202,10 @@
     width: 94px;
 }
 .launched_image_content .lauching_soon_heading {
-    font-size: 33px;
-    font-weight: 900;
-    font-family: var(--font-black);
-    color: var(--color-yellow);
+    font-size: 16px;
+    font-family: var(--font-medium);
     text-align: center;
+    color: var(--color-white);
     text-transform: uppercase;
     line-height: 1;
 }
@@ -253,13 +251,12 @@
         max-width: 30%;
     }
     .launched_image_content .lauching_soon_heading {
-        font-size: 1.8vw;
+        font-size: .8vw;
     }
     .launched_image_content .launching_soon_subheading {
         font-size: 1vw;
     }
     .launched_image_content {
-        max-width: 16vw;
         margin: 1.8vw auto auto;
         padding-left: 1.8vw;
         gap: 1vw;
@@ -344,11 +341,10 @@
     }
     .launched_image_content {
         margin: 30px auto auto;
-        max-width: 280px;
         padding-left: 30px;
     }
     .launched_image_content .lauching_soon_heading {
-        font-size: 26px;
+        font-size: 16px;
     }
     .launched_image_content .launching_soon_subheading {
         font-size: 16px;
@@ -415,15 +411,14 @@
     }
     .launched_image_content {
         margin: 25px auto auto;
-        max-width: 200px;
         gap: 10px;
         padding-left: 25px;
     }
     .launched_image_content .lauching_soon_heading {
-        font-size: 21px;
+        font-size: 14px;
     }
     .launched_image_content .launching_soon_subheading {
-        font-size: 13px;
+        font-size: 16px;
     }
     .launched_image_content .anata_logo_content {
         width: 80px;
@@ -469,12 +464,11 @@
     }
     .launched_image_content {
         margin: 8vw auto auto;
-        max-width: 50vw;
         gap: 2vw;
         padding-left: 8vw;
     }
     .launched_image_content .lauching_soon_heading {
-        font-size: 5vw;
+        font-size: 2vw;
     }
     .launched_image_content .launching_soon_subheading {
         font-size: 3vw;
