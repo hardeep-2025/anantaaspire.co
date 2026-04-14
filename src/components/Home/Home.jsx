@@ -13,7 +13,40 @@ import PriceList from "./PriceList/PriceList"
 const Home = () => {
 
     const localSchema = {
-    }
+  "@context": "https://schema.org",
+  "@type": "RealEstateAgent",
+  "name": "anantaaspire",
+  "image": "https://anantaaspire.co/assests/images/logo-new.png",
+  "@id": "https://vamanaresidences.com/#realestateagent",
+  "url": "https://anantaaspire.co",
+  "telephone": "+91-9915841204",
+  "priceRange": "Rs1.2Cr - Rs2Cr",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "NH 7, Patiala Rd, Utrathiya",
+    "addressLocality": "Zirakpur, Nabha, Punjab",
+    "postalCode": "140603",
+    "addressCountry": "IN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 30.6481304,
+    "longitude": 76.8173181
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "opens": "09:00",
+    "closes": "18:00"
+  } 
+}
 
     return(
         <>
